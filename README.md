@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Aaditya Kumar
 - 👀 I’m interested in Web Technologies and Ehical Hacking
-- 🌱 I’m currently learning Ehical Hacking
