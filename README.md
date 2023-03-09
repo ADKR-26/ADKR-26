@@ -1,3 +1,6 @@
+<h1> Hi, I am Aaditya Kumar </h1>
+<h2> Full Stack Developer </h2>
+
 # 💫 About Me:
 🔭 I’m currently working on One-Minute-Story<br><br>🌱 I’m currently learning React, Node,<br><br>👯 I’m looking to collaborate on One-Minute-Story<br><br>🤝 I’m looking for help with Redux<br><br>👨‍💻 Here's my portfolio -  https://adkr-26.github.io/Portfolio/<br><br>💬 Ask me about React, Node, JavaScript<br><br>📫 How to reach me adityavishwakarma2011@gmail.com
 
@@ -18,8 +21,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ADKR-26&icon=5&color=5)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ADKR-26) 
+<!--   ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ADKR-26)  -->
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
