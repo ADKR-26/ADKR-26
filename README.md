@@ -6,7 +6,6 @@
 <!-- <br>👨‍💻 Here's my portfolio -  https://adkr-26.github.io/Portfolio/<br> -->
 <br>💬 Ask me about React, Node, JavaScript<br><br>📫 How to reach me adityavishwakarma2011@gmail.com
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-kumar-a3a5981bb/) 
 
