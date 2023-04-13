@@ -2,8 +2,8 @@
 <h2> Full Stack Developer </h2>
 
 # 💫 About Me:
-🔭 I’m currently working on One-Minute-Story<br><br>🌱 I’m currently learning React, Node,<br><br>👯 I’m looking to collaborate on One-Minute-Story<br><br>🤝 I’m looking for help with Redux<br><!-- <br>👨‍💻 Here's my portfolio -  https://adkr-26.github.io/Portfolio/<br> -->
-<br>💬 Ask me about React Js, Node Js, JavaScript<br><br>📫 How to reach me adityavishwakarma2011@gmail.com
+🔭 I’m currently working on Movie App<br><br>🌱 I’m currently learning React, Node,<br><br>👯 I’m looking to collaborate on One-Minute-Story<br><br>🤝 I’m looking for help with Redux<br><!-- <br>👨‍💻 Here's my portfolio -  https://adkr-26.github.io/Portfolio/<br> -->
+<br>💬 Ask me about React Js, NodeJs, JavaScript<br><br>📫 How to reach me adityavishwakarma2011@gmail.com
 
 ## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-kumar-a3a5981bb/) 
@@ -25,4 +25,4 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ADKR-26)  -->
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM .( https://gprm.itsvg.in ) -->
