@@ -1,5 +1,5 @@
 <h1> Hi, I am Aaditya Kumar </h1>
-<h2> Full Stack Developer </h2>
+<h2> Full Stack Developer</h2>
 
 # 💫 About Me:
 🔭 I’m currently working on Movie App.<br><br>🌱 I’m currently learning React JS, Node JS and Next JS.<br><br>👯 I’m looking to collaborate on One-Minute-Story.<br><br>👨‍💻 Here's my portfolio - https://adkr-portfolio.vercel.app/<br><br>📫 How to reach me adityavishwakarma2011@gmail.com
